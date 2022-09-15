@@ -1,0 +1,147 @@
+"id";"host_id";"host_name";"neighbourhood_group";"neighbourhood";"latitude";"longitude";"room_type";"price";"minimum_nights";"number_of_reviews";"last_review";"reviews_per_month";"availability_365";"number_of_reviews_ltm"
+2595;2845;"Jennifer";"Manhattan";"Midtown";40.75356;-73.98559;"Entire home/apt";225;30;48;"2019-11-04";0.31;308;0
+5121;7356;"Garon";"Brooklyn";"Bedford-Stuyvesant";40.68535;-73.95512;"Private room";60;30;50;"2019-12-02";0.32;365;0
+5136;7378;"Rebecca";"Brooklyn";"Sunset Park";40.66265;-73.99454;"Entire home/apt";275;21;2;"2021-08-08";0.02;250;1
+5178;8967;"Shunichi";"Manhattan";"Midtown";40.76457;-73.98317;"Private room";68;2;536;"2022-05-09";3.37;172;62
+5203;7490;"MaryEllen";"Manhattan";"Upper West Side";40.8038;-73.96751;"Private room";75;2;118;"2017-07-21";0.76;0;0
+5295;7702;"Lena";"Manhattan";"Morningside Heights";40.80316;-73.96387;"Entire home/apt";135;30;56;"2021-08-22";0.35;30;1
+5803;9744;"Laurie";"Brooklyn";"South Slope";40.66801;-73.98784;"Private room";118;4;211;"2022-05-18";1.32;312;26
+6848;15991;"Allen & Irina";"Brooklyn";"Williamsburg";40.70935;-73.95342;"Entire home/apt";84;30;184;"2022-02-20";1.16;227;4
+6872;16104;"Kae";"Manhattan";"East Harlem";40.80107;-73.94255;"Private room";65;30;0;"";0.0;334;0
+6990;16800;"Cyn";"Manhattan";"East Harlem";40.78778;-73.94759;"Private room";62;30;238;"2022-05-10";1.55;254;5
+7064;17297;"Joelle";"Brooklyn";"Williamsburg";40.71248;-73.95881;"Private room";90;7;9;"2015-08-31";0.06;5;0
+7097;17571;"Jane";"Brooklyn";"Fort Greene";40.691083;-73.972544;"Entire home/apt";199;2;294;"2022-05-21";1.95;273;44
+7801;21207;"Chaya";"Brooklyn";"Williamsburg";40.71778;-73.9568;"Entire home/apt";395;30;9;"2011-12-28";0.06;348;0
+8490;25183;"Nathalie";"Brooklyn";"Bedford-Stuyvesant";40.68462;-73.93839;"Entire home/apt";135;2;149;"2022-04-08";0.96;260;19
+9357;30193;"Tommi";"Manhattan";"Hell's Kitchen";40.76724;-73.98664;"Entire home/apt";175;30;58;"2017-08-13";0.38;0;0
+9704;32045;"Teri";"Manhattan";"Harlem";40.81317;-73.95465;"Private room";55;30;98;"2020-03-14";1.01;116;0
+10452;35935;"Angela";"Brooklyn";"Bedford-Stuyvesant";40.68294;-73.95682;"Private room";82;30;80;"2022-05-23";0.54;263;4
+10962;9744;"Laurie";"Brooklyn";"South Slope";40.66692;-73.98981;"Private room";119;4;204;"2022-05-10";1.32;284;22
+11943;45445;"Harriet";"Brooklyn";"Flatbush";40.63702;-73.96327;"Private room";150;30;0;"";0.0;0;0
+12192;46978;"Edward";"Manhattan";"East Village";40.72296;-73.98383;"Private room";75;7;274;"2022-05-07";1.79;24;9
+12937;50124;"Orestes";"Queens";"Long Island City";40.74757;-73.94571;"Private room";140;3;325;"2022-05-28";2.23;124;40
+12940;50148;"Adreinne";"Brooklyn";"Bedford-Stuyvesant";40.67946;-73.95417;"Entire home/apt";119;30;72;"2021-08-31";0.47;186;2
+13121;27848;"Jullett";"Queens";"Jamaica";40.67144;-73.76501;"Private room";75;2;70;"2021-09-06";0.49;363;5
+13808;54275;"JT And Tiziana";"Brooklyn";"Bedford-Stuyvesant";40.68064;-73.94039;"Private room";80;2;163;"2022-05-09";1.12;208;19
+14290;56104;"James";"Brooklyn";"Williamsburg";40.70348;-73.93621;"Entire home/apt";248;1;140;"2022-05-19";0.92;104;34
+14314;56246;"Jeanne";"Brooklyn";"Greenpoint";40.73535;-73.95584;"Entire home/apt";99;30;179;"2020-08-16";1.18;276;0
+14434;7356;"Garon";"Brooklyn";"Bedford-Stuyvesant";40.68777;-73.94976;"Private room";70;30;59;"2021-10-11";0.4;326;1
+15220;59734;"Luiz";"Manhattan";"Hell's Kitchen";40.75611;-73.99523;"Private room";86;2;368;"2022-05-13";2.43;235;43
+15341;60049;"Ted";"Manhattan";"Lower East Side";40.721359;-73.993668;"Entire home/apt";229;2;31;"2022-03-30";0.29;3;5
+15385;60252;"Cristina";"Brooklyn";"Williamsburg";40.71211;-73.96397;"Private room";80;7;49;"2020-02-07";0.33;123;0
+15396;60278;"Petra";"Manhattan";"Chelsea";40.74493;-73.99521;"Entire home/apt";400;30;5;"2018-11-03";0.07;61;0
+15711;61491;"D";"Manhattan";"Upper East Side";40.77119;-73.95241;"Entire home/apt";206;30;84;"2020-11-29";0.56;165;0
+16326;63588;"Dimitri";"Brooklyn";"Prospect Heights";40.67839;-73.96642;"Entire home/apt";140;30;154;"2021-11-06";1.08;3;2
+16338;63613;"Patricia";"Brooklyn";"Clinton Hill";40.69121;-73.96804;"Private room";55;21;29;"2021-02-28";0.19;216;0
+16580;64442;"Reka";"Manhattan";"East Village";40.72489;-73.9781;"Private room";138;1;458;"2022-05-20";4.28;224;32
+16595;64522;"Ariel";"Brooklyn";"Williamsburg";40.7092;-73.96641;"Entire home/apt";500;1;229;"2022-05-23";1.62;364;32
+16821;4396;"Casey";"Manhattan";"East Village";40.72281;-73.98501;"Private room";169;1;150;"2022-05-15";1.26;37;28
+16974;65837;"Robin";"Manhattan";"East Harlem";40.8019;-73.93762;"Entire home/apt";250;5;247;"2022-05-24";1.63;70;26
+17037;66035;"Anna";"Manhattan";"East Village";40.72289;-73.98028;"Entire home/apt";220;30;53;"2020-03-18";0.36;61;0
+17693;68428;"Tye And Etienne";"Manhattan";"Washington Heights";40.83253;-73.94108;"Private room";75;2;62;"2022-04-24";0.94;318;2
+18152;69942;"Victoria";"Manhattan";"Upper East Side";40.76967;-73.94831;"Private room";200;30;148;"2019-09-01";1.14;365;0
+18728;71876;"DAVID And RICK";"Manhattan";"Chelsea";40.74261;-74.00353;"Private room";175;4;212;"2022-06-02";1.55;271;27
+18961;70857;"Fabian";"Manhattan";"Kips Bay";40.73808;-73.98001;"Private room";95;30;1;"2016-03-22";0.01;0;0
+19159;73051;"Sybilla";"Manhattan";"Harlem";40.82817;-73.95133;"Entire home/apt";110;180;58;"2020-09-01";0.4;276;0
+19812;74857;"Starlee";"Brooklyn";"Williamsburg";40.71802;-73.95724;"Entire home/apt";105;30;61;"2018-08-09";0.41;191;0
+20913;79402;"Christiana";"Brooklyn";"Williamsburg";40.70967;-73.95922;"Entire home/apt";80;30;168;"2018-07-22";1.18;0;0
+21456;42032;"Dana";"Manhattan";"Upper West Side";40.79936;-73.96155;"Private room";88;30;85;"2021-09-12";0.57;157;2
+21644;82685;"Elliott";"Manhattan";"Harlem";40.82782;-73.9473;"Private room";99;30;3;"2019-10-21";0.07;0;0
+21794;83257;"Olan";"Manhattan";"Chelsea";40.74187;-74.00223;"Private room";85;30;36;"2020-01-19";0.25;186;0
+23135;11481;"Annette";"Brooklyn";"Carroll Gardens";40.67747;-74.00146;"Entire home/apt";189;3;280;"2022-05-19";1.91;343;21
+23686;93790;"Ann";"Manhattan";"West Village";40.72961;-74.00308;"Entire home/apt";620;7;54;"2022-05-15";0.45;228;4
+24285;97797;"Brandon";"Brooklyn";"Park Slope";40.67115;-73.98026;"Entire home/apt";220;30;92;"2021-12-11";0.63;207;3
+25406;105538;"Erik";"Brooklyn";"Williamsburg";40.71649;-73.94865;"Entire home/apt";83;30;29;"2018-05-26";0.27;0;0
+25696;107628;"Dena";"Manhattan";"Harlem";40.8104;-73.94309;"Private room";100;1;190;"2020-01-01";1.35;0;0
+26362;59734;"Luiz";"Manhattan";"Hell's Kitchen";40.75603;-73.99294;"Private room";79;2;447;"2022-05-20";3.05;259;61
+26785;42273;"Dani";"Brooklyn";"South Slope";40.6686;-73.98723;"Entire home/apt";90;30;479;"2022-05-31";3.28;35;5
+27006;115560;"Stacy";"Manhattan";"Upper West Side";40.77839;-73.97778;"Entire home/apt";225;30;28;"2019-07-12";0.21;286;0
+27644;119510;"Emma";"Manhattan";"Harlem";40.82682;-73.94948;"Entire home/apt";180;2;219;"2022-01-01";1.67;293;11
+27883;120223;"Jen";"Manhattan";"East Village";40.72421;-73.98509;"Entire home/apt";100;30;25;"2011-12-10";0.18;0;0
+44229;181376;"Carol";"Brooklyn";"Fort Greene";40.69287;-73.97108;"Private room";110;30;231;"2020-02-11";1.63;335;0
+44288;193637;"Sara";"Manhattan";"West Village";40.73737;-74.00437;"Entire home/apt";170;30;88;"2020-12-07";0.61;132;0
+44973;198411;"Anastasia";"Brooklyn";"Williamsburg";40.70894;-73.95234;"Entire home/apt";104;30;125;"2022-04-02";0.88;122;4
+45542;202249;"Campbell";"Manhattan";"Harlem";40.82569;-73.93842;"Entire home/apt";100;30;18;"2018-12-17";0.4;0;0
+45556;67778;"Doug";"Brooklyn";"Fort Greene";40.68834;-73.97578;"Private room";65;2;317;"2022-05-22";2.22;153;57
+45910;204539;"Mark";"Queens";"Ridgewood";40.70309;-73.89963;"Entire home/apt";395;30;13;"2019-11-12";0.1;358;0
+45935;204586;"L";"Bronx";"Mott Haven";40.80635;-73.92201;"Private room";60;30;0;"";0.0;83;0
+45936;867225;"Rahul";"Manhattan";"Morningside Heights";40.8063;-73.95985;"Private room";75;31;133;"2022-04-22";0.96;145;4
+46911;210746;"Kathleen R.";"Brooklyn";"Prospect Heights";40.68022;-73.97457;"Private room";120;3;59;"2022-05-08";0.41;267;8
+49048;35935;"Angela";"Brooklyn";"Bedford-Stuyvesant";40.6829;-73.95701;"Private room";90;30;23;"2022-04-30";0.17;155;3
+50447;9744;"Laurie";"Brooklyn";"Gowanus";40.66913;-73.99041;"Entire home/apt";162;5;214;"2022-05-15";1.52;265;28
+51438;236421;"Jessica";"Manhattan";"Upper East Side";40.77449;-73.95308;"Private room";130;14;0;"";0.0;0;0
+51850;27848;"Jullett";"Queens";"Jamaica";40.67144;-73.76501;"Private room";65;30;53;"2019-09-03";0.37;328;0
+52689;244071;"Litza";"Queens";"Ditmars Steinway";40.77868;-73.90652;"Entire home/apt";150;4;30;"2022-05-27";0.22;38;24
+53469;204539;"Mark";"Queens";"Middle Village";40.71567;-73.87842;"Entire home/apt";107;30;33;"2015-05-09";0.23;339;0
+53470;204539;"Mark";"Queens";"Ridgewood";40.70422;-73.89778;"Entire home/apt";193;30;6;"2015-10-08";0.05;358;0
+53477;204539;"Mark";"Queens";"Middle Village";40.71778;-73.87714;"Entire home/apt";350;30;16;"2019-08-09";0.12;317;0
+54466;253385;"Douglas";"Manhattan";"Harlem";40.80255;-73.95803;"Private room";200;30;0;"";0.0;365;0
+54508;210746;"Kathleen R.";"Brooklyn";"Park Slope";40.67908;-73.97405;"Private room";80;2;126;"2022-06-01";0.89;310;23
+54694;27848;"Jullett";"Queens";"Jamaica";40.67144;-73.76501;"Private room";65;30;62;"2018-01-01";0.44;0;0
+54860;258164;"Jenny";"Manhattan";"East Harlem";40.79934;-73.94236;"Private room";100;5;257;"2022-05-22";1.82;174;28
+55587;131716;"Daniel";"Brooklyn";"Williamsburg";40.71311;-73.9506;"Entire home/apt";235;3;18;"2022-05-08";0.14;36;7
+55959;168525;"Gus";"Brooklyn";"Williamsburg";40.71065;-73.95087;"Private room";95;5;93;"2020-06-25";0.86;32;0
+55982;264928;"Sally";"Brooklyn";"Fort Greene";40.68701;-73.97555;"Private room";85;3;38;"2021-11-13";0.27;0;1
+56859;256161;"Wayne";"Manhattan";"Harlem";40.81201;-73.94452;"Private room";74;3;226;"2022-05-18";1.62;43;18
+57166;272006;"Vasili";"Queens";"Ditmars Steinway";40.772472;-73.906075;"Entire home/apt";150;3;87;"2022-06-03";0.62;290;38
+57618;274557;"Ana";"Manhattan";"Hell's Kitchen";40.76505;-73.98716;"Entire home/apt";250;3;118;"2022-04-07";0.88;4;5
+57754;275578;"R";"Manhattan";"Flatiron District";40.74166;-73.9866;"Entire home/apt";330;2;161;"2022-05-29";1.2;160;27
+57874;276291;"Simon";"Manhattan";"East Harlem";40.80747;-73.94076;"Entire home/apt";160;3;326;"2022-05-17";2.31;178;53
+58059;277379;"Agnes";"Manhattan";"Harlem";40.8238;-73.94444;"Private room";60;1;605;"2022-05-30";4.47;178;57
+58062;277394;"Linda";"Brooklyn";"Windsor Terrace";40.65912;-73.9842;"Private room";139;2;25;"2020-02-16";0.21;246;0
+59014;282927;"Drica";"Manhattan";"Lower East Side";40.71946;-73.98641;"Entire home/apt";180;30;57;"2020-02-18";0.41;343;0
+59121;204539;"Mark";"Queens";"Ridgewood";40.70271;-73.8993;"Entire home/apt";196;30;2;"2019-11-01";0.02;358;0
+59709;186084;"Ricardo & Ashlie";"Manhattan";"Chinatown";40.7178;-73.9932;"Entire home/apt";300;7;46;"2022-05-20";0.34;7;21
+60164;289653;"Harrison";"Manhattan";"Tribeca";40.72012;-74.00397;"Entire home/apt";608;30;108;"2022-02-05";0.83;295;2
+60181;128806;"Sue";"Manhattan";"East Village";40.7253;-73.98028;"Entire home/apt";195;45;37;"2020-01-01";0.27;18;0
+60457;99212;"Jessica";"Manhattan";"Greenwich Village";40.73072;-73.99275;"Entire home/apt";250;30;10;"2019-08-21";0.07;0;0
+60666;256161;"Wayne";"Manhattan";"Harlem";40.81006;-73.94559;"Private room";111;3;226;"2022-05-16";1.63;32;10
+60673;249372;"Cynthia";"Manhattan";"Harlem";40.81562;-73.94674;"Private room";125;30;3;"2019-10-20";0.07;0;0
+60680;292630;"Mich";"Manhattan";"East Village";40.72598;-73.97978;"Entire home/apt";160;30;164;"2022-03-08";1.17;314;1
+60794;293394;"Rachel";"Manhattan";"Upper West Side";40.79918;-73.96248;"Entire home/apt";211;30;4;"2017-08-25";0.03;0;0
+61509;23619;"Anna/Fonzy";"Manhattan";"Midtown";40.75743;-73.96825;"Entire home/apt";110;200;92;"2019-04-30";0.67;0;0
+74860;394752;"Allison";"Brooklyn";"Greenpoint";40.72364;-73.95013;"Entire home/apt";75;30;3;"2019-10-30";0.02;0;0
+75635;401696;"Patricia";"Manhattan";"Lower East Side";40.71911;-73.98588;"Entire home/apt";160;3;336;"2022-05-26";2.45;182;14
+77517;415660;"Carmen";"Brooklyn";"Williamsburg";40.71407;-73.96657;"Private room";100;28;3;"2012-07-23";0.02;338;0
+77765;417504;"The Box House Hotel";"Brooklyn";"Greenpoint";40.73777;-73.95366;"Hotel room";250;3;41;"2022-04-24";0.3;202;3
+80493;434987;"Jennifer";"Manhattan";"East Village";40.72322;-73.98615;"Private room";55;2;201;"2022-04-22";1.48;98;4
+80684;417504;"The Box House Hotel";"Brooklyn";"Greenpoint";40.73756;-73.9535;"Hotel room";529;3;10;"2021-11-13";0.08;164;2
+80700;417504;"The Box House Hotel";"Brooklyn";"Greenpoint";40.73777;-73.95366;"Private room";363;3;8;"2022-05-16";0.06;198;1
+80924;438133;"Ellis";"Brooklyn";"Park Slope";40.67407;-73.98105;"Entire home/apt";160;30;37;"2020-02-18";0.36;154;0
+81739;417504;"The Box House Hotel";"Brooklyn";"Greenpoint";40.73777;-73.95366;"Private room";363;3;2;"2011-05-12";0.01;198;0
+82928;451545;"Ruthven";"Brooklyn";"Bedford-Stuyvesant";40.68433;-73.94469;"Entire home/apt";150;30;75;"2022-05-02";0.96;66;4
+83243;453519;"Julian";"Brooklyn";"Bushwick";40.68769;-73.91788;"Entire home/apt";77;30;252;"2022-06-01";1.85;307;2
+83446;454756;"Leslie";"Brooklyn";"Fort Greene";40.68871;-73.97322;"Entire home/apt";150;30;6;"2019-08-21";0.04;0;0
+84010;417504;"The Box House Hotel";"Brooklyn";"Greenpoint";40.73777;-73.95366;"Hotel room";210;3;21;"2022-05-04";0.16;197;5
+89621;209460;"Marylyn Palmer";"Brooklyn";"Crown Heights";40.67823;-73.94719;"Entire home/apt";90;30;239;"2022-03-20";1.81;354;1
+93313;25183;"Nathalie";"Brooklyn";"Bedford-Stuyvesant";40.68413;-73.93817;"Entire home/apt";135;2;129;"2022-05-10";0.96;250;23
+94209;503800;"Peace";"Brooklyn";"Crown Heights";40.67654;-73.94629;"Entire home/apt";101;1;29;"2022-05-20";1.97;65;22
+94783;473113;"Keishera";"Brooklyn";"Crown Heights";40.6736;-73.9551;"Entire home/apt";140;6;130;"2022-05-28";0.96;294;13
+95747;509341;"Tessa";"Brooklyn";"Williamsburg";40.71167;-73.94932;"Entire home/apt";140;7;16;"2022-05-01";0.12;21;2
+95883;509918;"Eduardo";"Brooklyn";"Bedford-Stuyvesant";40.69304;-73.95417;"Entire home/apt";250;6;6;"2021-07-25";0.06;164;1
+98663;520279;"Peter Michael";"Manhattan";"Chelsea";40.75077;-73.99657;"Entire home/apt";150;30;19;"2018-06-11";0.14;185;0
+99085;522164;"Wanda";"Brooklyn";"Fort Greene";40.6867;-73.97469;"Entire home/apt";123;30;26;"2022-04-29";0.19;236;5
+100186;526805;"Mi";"Brooklyn";"Gowanus";40.66952;-73.99201;"Entire home/apt";130;30;111;"2022-03-20";0.83;6;5
+100368;526105;"Scott";"Manhattan";"Chelsea";40.74056;-74.00143;"Entire home/apt";222;30;35;"2021-05-31";0.26;295;0
+101053;530032;"Lee And Tara";"Brooklyn";"Williamsburg";40.71116;-73.95484;"Private room";175;60;38;"2021-07-12";0.28;0;1
+102995;178043;"Chas";"Manhattan";"Upper West Side";40.78645;-73.97082;"Entire home/apt";389;30;45;"2018-01-01";0.34;1;0
+103161;465278;"Ade";"Brooklyn";"Williamsburg";40.71551;-73.96274;"Entire home/apt";375;10;144;"2022-05-20";1.36;192;7
+103311;417504;"The Box House Hotel";"Brooklyn";"Greenpoint";40.73778;-73.95366;"Private room";785;3;9;"2018-05-19";0.07;107;0
+103555;220001;"Gordon";"Brooklyn";"Fort Greene";40.693047;-73.971985;"Entire home/apt";375;1;281;"2022-05-09";2.08;154;1
+105469;547386;"Michelle";"Queens";"Rockaway Beach";40.58603;-73.8145;"Private room";104;2;17;"2021-09-17";0.13;86;1
+105790;548817;"Armand";"Manhattan";"Harlem";40.81919;-73.95443;"Private room";80;30;144;"2019-06-25";1.13;60;0
+106363;551055;"Alicia";"Manhattan";"Harlem";40.82772;-73.95284;"Private room";79;5;436;"2022-05-31";3.24;239;19
+106647;552679;"Olivia";"Brooklyn";"Bedford-Stuyvesant";40.68647;-73.95862;"Entire home/apt";150;2;120;"2022-04-26";0.89;6;16
+106906;553964;"Justine";"Brooklyn";"Clinton Hill";40.68615;-73.96769;"Entire home/apt";225;45;12;"2016-01-05";0.09;215;0
+107630;306739;"Maya";"Brooklyn";"Greenpoint";40.72741;-73.95466;"Entire home/apt";175;3;312;"2022-05-16";2.34;56;31
+107895;3088389;"Kai";"Manhattan";"Upper West Side";40.78073;-73.98564;"Entire home/apt";166;30;63;"2022-05-15";0.51;238;2
+112304;573316;"Kelli";"Manhattan";"Harlem";40.8069;-73.95372;"Private room";90;30;1;"2016-01-02";0.01;0;0
+112435;181376;"Carol";"Brooklyn";"Fort Greene";40.69132;-73.97306;"Private room";95;30;177;"2020-02-16";1.32;339;0
+113092;575906;"San";"Brooklyn";"Fort Greene";40.6905;-73.97867;"Private room";90;30;0;"";0.0;0;0
+113265;314582;"Anthony";"Brooklyn";"Crown Heights";40.67582;-73.9518;"Private room";55;30;272;"2022-04-07";2.03;307;2
+114123;579495;"Susi";"Brooklyn";"South Slope";40.66562;-73.99002;"Entire home/apt";235;364;34;"2020-01-11";0.26;362;0
+115535;567187;"Jane";"Manhattan";"Harlem";40.82402;-73.95263;"Private room";65;30;34;"2019-10-30";0.25;303;0
+115748;585166;"Lilly";"Queens";"Astoria";40.76406;-73.92266;"Entire home/apt";85;5;37;"2022-05-03";0.28;8;4
+116551;497672;"Cynthia And  Charlie";"Manhattan";"Harlem";40.80384;-73.95123;"Entire home/apt";70;30;172;"2021-09-14";1.28;30;1
+118061;2248897;"Roberta";"Brooklyn";"Bedford-Stuyvesant";40.68462;-73.92895;"Entire home/apt";95;30;87;"2022-02-08";0.67;217;3
+121861;611716;"Elizabeth";"Brooklyn";"Park Slope";40.6755;-73.98137;"Entire home/apt";165;2;27;"2021-12-29";0.2;86;4
